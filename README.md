@@ -28,3 +28,6 @@ Offensive DAWGs
   - Defensive Boxouts
   
   The exact values for each action can be found in the Jupyter notebook. Thanks for checking this out and I hope you enjoy it. Please let me know if you have any feedback as well.
+
+
+![playerdawgs](https://user-images.githubusercontent.com/26802284/200697499-9e5797c8-d9c3-4b08-907f-3732adfecd97.PNG)
