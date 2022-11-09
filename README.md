@@ -1,7 +1,7 @@
 # He Got that DAWG in Him:
 ## Quantifying NBA Player Toughness Using Counting Stats
 
-Data Visualization Presentation: https://public.tableau.com/app/profile/matthew.parizot/viz/NBAPlayerToughness2021-22/Story1?publish=yes
+Data Visualization Presentation: https://public.tableau.com/shared/RW2XWYR3T?:display_count=n&:origin=viz_share_link
 Technologies Used: SQL, Python, Excel, Tableau
 
 Inspired from a technical question asked by the Miami Heat for their analytics internships, how does one measure "toughness" in a player? My attempt to answer this question lead me to the creation of a statistic called Discrete Actions for Winning Games (or DAWG).
